@@ -4,6 +4,3 @@ app= Flask(__name__)
 def index():
   return "<h1>Welcome to CodingX</h1>"
 
-
-if __name__=="__main__":
-	app.run()
